@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.srang.springautoconfigure.SpringAutoConfigureApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-11T21:04:44" hostname="LAPTOP-BLGB9CV8" time="2.544">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.srang.springautoconfigure.SpringAutoConfigureApplicationTests" time="2.544"/>
+  <system-out><![CDATA[22:04:38.282 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.srang.springautoconfigure.SpringAutoConfigureApplicationTests]: SpringAutoConfigureApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+22:04:38.695 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.srang.springautoconfigure.SpringAutoConfigureApplication for test class com.srang.springautoconfigure.SpringAutoConfigureApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.5)
+
+2024-05-11T22:04:40.268+01:00  INFO 27056 --- [spring-auto-configure] [    Test worker] .s.s.SpringAutoConfigureApplicationTests : Starting SpringAutoConfigureApplicationTests using Java 17.0.2 with PID 27056 (started by sekar in C:\MyContent\Training\spring-boot-demos\spring-auto-configure)
+2024-05-11T22:04:40.273+01:00  INFO 27056 --- [spring-auto-configure] [    Test worker] .s.s.SpringAutoConfigureApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2024-05-11T22:04:44.512+01:00  INFO 27056 --- [spring-auto-configure] [    Test worker] .s.s.SpringAutoConfigureApplicationTests : Started SpringAutoConfigureApplicationTests in 5.177 seconds (process running for 9.578)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
